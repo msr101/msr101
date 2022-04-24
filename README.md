@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Quick overview
+
+- Electrical Engineer with experience in Embedded Software Development for the electronics and automation industry. 
+- Experience in firmware development using programming languages like C, C++, Python, Matlab, IEC 61131-3 and Bash script. 
+- Experience in Linux development environment such as device drivers, shared libraries, user-space applications, QEMU, CMake and Buildroot. 
+- Experience with industrial communication protocols like CAN (Controller Area Network), J1939, DNP3 (MMS and GOOSE), IEC 60870-5-104, IEC 61850, Modbus, Profibus andEtherCAT. 
+- Experience with deadline-oriented projects and work in collaborative and communicative teams, committed to deadlines and proactive.
